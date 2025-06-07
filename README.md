@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm April 👋</h1>
+<p align="center"> 🌐 Frontend Developer | 📍 Thailand</p>
+---
 
-<!--
-**RealMaysa/RealMaysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About me
+🎓 Bachelor in Computer Engineering  
+🏫 King Mongkut’s Institute of Technology Ladkrabang (KMITL)
+- 📚 Currently learning: **Vitest**, **Cypress**, **Vue.js 3**, **Tailwind CSS**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend**: Vue 3, Vuetify, Tailwind CSS, Vite
+- **Testing**: Postman Robot Framework
+- **Backend**: Node.js
+- **Database**: SQLite, PostgreSQL
+- **Tools**: Git, GitHub, GitLab , Figma, Penpot ,Jira, Notion
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maybeapril&show_icons=true&theme=radical" alt="maybeapril's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maybeapril&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+### 📫 my contract
+- 📧 Email: [maypimprae@gmail.com]
+

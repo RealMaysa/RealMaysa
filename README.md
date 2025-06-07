@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm April 👋</h1>
+<h1 align="center">Hi, I'm May Pimpraethong👋</h1>
 <p align="center"> 🌐 Frontend Developer | 📍 Thailand</p>
 ---
 

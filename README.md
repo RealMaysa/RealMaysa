@@ -13,7 +13,7 @@ My experience in building and designing interfaces gives me a unique perspective
 # King Mongkut’s Institute of Technology Ladkrabang (KMITL)
 ## Bachelor of Engineering in Computer Engineering
 
-2564–2568 (GPA: 3.24)
+2021–2025 (GPA: 3.24)
 ---
 
 ## 🛠 Technical Skills

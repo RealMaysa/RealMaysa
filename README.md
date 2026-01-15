@@ -9,8 +9,8 @@ My experience in building and designing interfaces gives me a unique perspective
 ---
 
 ## 🎓 Education
-#🎓 Bachelor in Computer Engineering  
-#🏫 King Mongkut’s Institute of Technology Ladkrabang (KMITL)
+## 🎓 Bachelor in Computer Engineering  
+## 🎓 Bachelor in Computer Engineering  🏫 King Mongkut’s Institute of Technology Ladkrabang (KMITL)
 
 ---
 

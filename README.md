@@ -14,6 +14,7 @@ My experience in building and designing interfaces gives me a unique perspective
 ## Bachelor of Engineering in Computer Engineering
 
 2021–2025 (GPA: 3.24)
+
 ---
 
 ## 🛠 Technical Skills
